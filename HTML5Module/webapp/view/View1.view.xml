@@ -2,7 +2,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="cdci dem test">
+				<Page id="page" title="cdci dem test changed">
 					<content></content>
 				</Page>
 			</pages>
